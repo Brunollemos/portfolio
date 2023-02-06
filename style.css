@@ -47,7 +47,7 @@ body {
     align-items: center;
     gap: 32px;
 }
-.links__botao {
+.apresentacao__links__link {
     background-color: #22d4fd;
     width: 280px;
     text-align: center;
@@ -60,7 +60,7 @@ body {
     font-family: "Montserrat", sans-serif;
 }
 
-.titulo__botao {
+.apresentacao__links__subtitulo {
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
     font-size: 24px;
