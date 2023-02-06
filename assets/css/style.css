@@ -59,6 +59,10 @@ body {
     text-decoration: none;
     color: #f6f6f6;
     font-family: "Montserrat", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
 }
 
 .apresentacao__links__subtitulo {
