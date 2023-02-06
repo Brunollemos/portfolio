@@ -62,7 +62,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 10px;
+    gap: 16px;
+}
+
+.apresentacao__links__link:hover {
+    background-color: #272727;
+    padding: 3%;
 }
 
 .apresentacao__links__subtitulo {
