@@ -65,6 +65,23 @@ body {
     gap: 16px;
 }
 
+.cabecalho {
+    padding: 2% 0 0 15%;
+}
+
+.cabecalho__menu {
+    display: flex;
+    gap: 80px;
+}
+
+.cabecalho__menu__link {
+    text-decoration: none;
+    color: #22d4fd;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+}
+
 .apresentacao__links__link:hover {
     background-color: #272727;
     /* padding: 3%; */
