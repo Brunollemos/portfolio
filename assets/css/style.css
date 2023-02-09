@@ -68,6 +68,11 @@ body {
     font-size: var(--tamanho-fonte-primaria);
 }
 
+.apresentacao__conteudo__texto a {
+    text-decoration: none;
+    color: #22d4fd;
+}
+
 .apresentacao__links {
     align-items: center;
     display: flex;
