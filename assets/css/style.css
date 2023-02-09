@@ -9,7 +9,7 @@
     --font-secundaria: "Montserrat", sans-serif;
     --peso-fonte-primario: 600;
     --peso-fonte-secundario: 400;
-    --tamanho-fonte-primaria: 24px;
+    --tamanho-fonte-primaria: 1.5rem;
 }
 
 * {
@@ -56,7 +56,7 @@ body {
 
 .apresentacao__conteudo__titulo {
     font-family: var(--fonte-primaria);
-    font-size: 36px;
+    font-size: 2.25rem;
 }
 
 .titulo__destaque {
@@ -87,7 +87,7 @@ body {
     font-weight: var(--peso-fonte-secundario);
 }
 
-.apresentacao__links__link {
+.apresentacao__links__navegacao {
     align-items: center;
     border: 2px solid var(--cor-terciaria);
     border-radius: 8px;
@@ -103,7 +103,7 @@ body {
     text-decoration: none;
     width: 378px;
 }
-.apresentacao__links__link:hover {
+.apresentacao__links__navegacao:hover {
     background-color: var(--cor-hover);
 }
 
