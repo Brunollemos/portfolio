@@ -40,6 +40,10 @@ body {
     text-decoration: none;
 }
 
+.ativo {
+    text-decoration: underline;
+}
+
 .apresentacao {
     align-items: center;
     display: flex;
